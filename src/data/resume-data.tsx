@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Kolkata",
   about: "Web Developer",
   summary:
-    "I am a passionate Full-Stack Developer with a strong foundation in building scalable and high-performance web applications. My tech stack includes expertise in React for building dynamic user interfaces, Node.js and Express.js for creating robust backend services, and MongoDB for efficient database management. I also leverage Next.js to develop server-side rendered applications, and Docker for containerization, ensuring seamless deployment and scalability. With proficient use of Git and GitHub, I collaborate effectively and manage version control in all my projects. I am constantly learning and applying modern web technologies to create innovative solutions.",
+    "I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering and Docker for seamless deployment. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions..",
   avatarUrl:
     "https://media.licdn.com/dms/image/v2/D5603AQGrlwfdsQq3HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710222618822?e=1737590400&v=beta&t=KA6BW8FMOQAUis6GjanBgd0AH-gS2Z-CI_LoKh2kv2E",
   personalWebsiteUrl: "https://isayanpal.vercel.app",
