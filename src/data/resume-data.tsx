@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Kolkata",
   about: "Web Developer",
   summary:
-    "I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering and Docker for seamless deployment. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions..",
+    "I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering and Docker for seamless deployment. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions.",
   avatarUrl:
     "https://media.licdn.com/dms/image/v2/D5603AQGrlwfdsQq3HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710222618822?e=1737590400&v=beta&t=KA6BW8FMOQAUis6GjanBgd0AH-gS2Z-CI_LoKh2kv2E",
   personalWebsiteUrl: "https://isayanpal.vercel.app",
@@ -120,7 +120,7 @@ export const RESUME_DATA = {
         "Supabase",
         "Cloudflare Workers",
         "Hono",
-        "Zod"
+        "Zod",
       ],
       description:
         "ThoughtBook is a blog-writing platform where users can create, organize, and manage their blog posts efficiently.",
@@ -176,7 +176,7 @@ export const RESUME_DATA = {
     },
     {
       title: "NewsTech",
-      techStack: ["Side Project", "Reactjs", "Node.js", "Express",],
+      techStack: ["Side Project", "Reactjs", "Node.js", "Express"],
       description:
         "NewsTech is a web application designed to fetch and display the latest technology news articles from various sources.",
       link: {
@@ -186,11 +186,13 @@ export const RESUME_DATA = {
     },
     {
       title: "Dev Buddy",
-      techStack: ["Side Project","Reactjs",
+      techStack: [
+        "Side Project",
+        "Reactjs",
         "Github Api",
         "Node.js",
         "Express",
-],
+      ],
       description:
         "Dev Buddy is a web application that allows users to search for GitHub profiles based on location.",
       link: {
@@ -200,7 +202,8 @@ export const RESUME_DATA = {
     },
     {
       title: "Quick Task",
-      techStack: ["Side Project", 
+      techStack: [
+        "Side Project",
         "Reactjs",
         "Redux",
         "Node.js",
