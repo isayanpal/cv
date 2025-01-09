@@ -93,6 +93,40 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "WanderAI",
+      techStack: [
+        "Full Stack Developer",
+        "Reactjs",
+        "Shadcn UI",
+        "Firebase",
+        "Gemini API",
+        "OAuth",
+      ],
+      description:
+        "WanderAI is an AI-powered trip planning platform that provides personalized travel itineraries using generative AI for enhanced user experiences and real-time locationdata.",
+      link: {
+        label: "github.com",
+        href: "https://github.com/isayanpal/wanderAI",
+      },
+    },
+    {
+      title: "DocBook",
+      techStack: [
+        "Full Stack Developer",
+        "Reactjs",
+        "Redux",
+        "Node.js",
+        "Express",
+        "MongoDB",
+      ],
+      description:
+        "DocBook is an appointment booking app connecting doctors, patients, and admins seamlessly.",
+      link: {
+        label: "github.com",
+        href: "https://github.com/isayanpal/docBook",
+      },
+    },
+    {
       title: "LearnSync",
       techStack: [
         "Full Stack Developer",
@@ -127,23 +161,6 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/isayanpal/thoughtbook",
-      },
-    },
-    {
-      title: "DocBook",
-      techStack: [
-        "Full Stack Developer",
-        "Reactjs",
-        "Redux",
-        "Node.js",
-        "Express",
-        "MongoDB",
-      ],
-      description:
-        "DocBook is an appointment booking app connecting doctors, patients, and admins seamlessly.",
-      link: {
-        label: "github.com",
-        href: "https://github.com/isayanpal/docBook",
       },
     },
     {
