@@ -74,7 +74,6 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "Java",
     "JavaScript",
     "TypeScript",
     "React/Next.js",
