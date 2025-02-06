@@ -9,7 +9,7 @@ export const RESUME_DATA = {
   summary:
     "I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering and Docker for seamless deployment. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions.",
   avatarUrl:
-    "https://media.licdn.com/dms/image/v2/D5603AQGrlwfdsQq3HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710222618822?e=1737590400&v=beta&t=KA6BW8FMOQAUis6GjanBgd0AH-gS2Z-CI_LoKh2kv2E",
+    "https://media.licdn.com/dms/image/v2/D5603AQGrlwfdsQq3HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710222618822?e=1744243200&v=beta&t=_S3mdJkJ_z3H0cWCWny1sWz4DOpeMynD7gWfS0CGIgY",
   personalWebsiteUrl: "https://isayanpal.vercel.app",
   contact: {
     email: "sayanpalb@gmail.com",
@@ -46,11 +46,11 @@ export const RESUME_DATA = {
       company: "RAD Media Solutions",
       link: "https://www.linkedin.com/company/rad-media-solutions/",
       badges: ["Remote"],
-      title: " Frontend Developer Intern",
+      title: " Software Developer Intern",
       start: "Nov 2024",
       end: null,
       description:
-        "Collaborated on developing dynamic, user-centered web applications with a focus on performance optimization and responsive design using ReactJS,NextJS,Typescript.",
+        "Engineered user-centric web applications,focusing on performance optimization and responsive design; resolved three critical causes of application crashes identified during testing sessions with endusers to enhance overall reliability.Implemented seamless statemanagement flows in applications leveraging TypeScript to enhancemaintainability andscalability.",
     },
     {
       company: "Pephub",
@@ -58,7 +58,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: " Software Developer Intern",
       start: "Aug 2023",
-      end: "Nov 2023",
+      end: "March 2024",
       description:
         "Engineered a robust system to aggregate and store feedback from diverse user sources, enhancing data-driven decision-making processes using  ReactJS, MongoDB, ExpressJS.",
     },
@@ -78,6 +78,7 @@ export const RESUME_DATA = {
     "TypeScript",
     "React/Next.js",
     "Redux",
+    "Zustand",
     "Node.js",
     "Expressjs",
     "MongoDB",
@@ -94,7 +95,6 @@ export const RESUME_DATA = {
     {
       title: "WanderAI",
       techStack: [
-        "Full Stack Developer",
         "Reactjs",
         "Shadcn UI",
         "Firebase",
@@ -111,7 +111,6 @@ export const RESUME_DATA = {
     {
       title: "DocBook",
       techStack: [
-        "Full Stack Developer",
         "Reactjs",
         "Redux",
         "Node.js",
@@ -128,7 +127,6 @@ export const RESUME_DATA = {
     {
       title: "LearnSync",
       techStack: [
-        "Full Stack Developer",
         "Reactjs",
         "Redux",
         "Node.js",
@@ -146,7 +144,6 @@ export const RESUME_DATA = {
     {
       title: "ThoughtBook",
       techStack: [
-        "Full Stack Developer",
         "React",
         "Typescript",
         "Prisma",
@@ -165,7 +162,6 @@ export const RESUME_DATA = {
     {
       title: "Log Sync",
       techStack: [
-        "Side Project",
         "TypeScript",
         "Next.js",
         "Vite",
@@ -203,7 +199,6 @@ export const RESUME_DATA = {
     {
       title: "Dev Buddy",
       techStack: [
-        "Side Project",
         "Reactjs",
         "Github Api",
         "Node.js",
@@ -219,7 +214,6 @@ export const RESUME_DATA = {
     {
       title: "Quick Task",
       techStack: [
-        "Side Project",
         "Reactjs",
         "Redux",
         "Node.js",
