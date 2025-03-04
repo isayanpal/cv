@@ -48,7 +48,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: " Software Developer Intern",
       start: "Nov 2024",
-      end: "Jan 2025",
+      end: "Feb 2025",
       description:
         "Engineered user-centric web applications,focusing on performance optimization and responsive design; resolved three critical causes of application crashes identified during testing sessions with endusers to enhance overall reliability.Implemented seamless statemanagement flows in applications leveraging TypeScript to enhancemaintainability andscalability.",
     },
