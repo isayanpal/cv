@@ -58,7 +58,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: " Software Developer Intern",
       start: "Aug 2023",
-      end: "March 2024",
+      end: "Nov 2023",
       description:
         "Engineered a robust system to aggregate and store feedback from diverse user sources, enhancing data-driven decision-making processes using  ReactJS, MongoDB, ExpressJS.",
     },
