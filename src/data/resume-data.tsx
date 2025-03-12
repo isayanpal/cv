@@ -9,7 +9,7 @@ export const RESUME_DATA = {
   summary:
     "I am a passionate Web Developer skilled in building scalable web applications using React, Node.js, Express.js, and MongoDB. I leverage Next.js for server-side rendering and Docker for seamless deployment. Proficient in Git and GitHub, I excel in collaboration and version control, constantly applying modern technologies to create innovative solutions.",
   avatarUrl:
-    "https://media.licdn.com/dms/image/v2/D5603AQGrlwfdsQq3HA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710222618822?e=1744243200&v=beta&t=_S3mdJkJ_z3H0cWCWny1sWz4DOpeMynD7gWfS0CGIgY",
+    "https://media.licdn.com/dms/image/v2/D5603AQHRA0l5VF7gQg/profile-displayphoto-shrink_400_400/B56ZWATEywGUAg-/0/1741614240171?e=1747267200&v=beta&t=7AXNoBrq09P35q7ailASQ2zIT8TJvuf3BsWg47geWhk",
   personalWebsiteUrl: "https://isayanpal.vercel.app",
   contact: {
     email: "sayanpalb@gmail.com",
