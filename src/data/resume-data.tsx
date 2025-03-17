@@ -50,7 +50,7 @@ export const RESUME_DATA = {
       start: "Nov 2024",
       end: "Feb 2025",
       description:
-        "Engineered user-centric web applications,focusing on performance optimization and responsive design; resolved three critical causes of application crashes identified during testing sessions with endusers to enhance overall reliability.Implemented seamless statemanagement flows in applications leveraging TypeScript to enhancemaintainability andscalability.",
+        "Engineered user-centric web applications,focusing on performance optimization and responsive design; resolved three critical causes of application crashes identified during testing sessions with endusers to enhance overall reliability.Implemented seamless state-management flows in applications leveraging TypeScript to enhance maintainability and scalability.",
     },
     {
       company: "Pephub",
