@@ -93,6 +93,26 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "GistIQ",
+      techStack: [
+        "React",
+        "Typescript",
+        "ShadCN UI",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Gemini AI",
+        "Node.js",
+        "Express.js",
+        "Multer"
+      ],
+      description:
+        "GistIQ is an AI-powered tool that helps users quickly summarize PDFs using Gemini AI. Users can upload a PDF, generate a concise summary, and download the summarized version for easy reference.",
+      link: {
+        label: "github.com",
+        href: "https://github.com/isayanpal/gistIQ",
+      },
+    },
+    {
       title: "WanderAI",
       techStack: [
         "Reactjs",
