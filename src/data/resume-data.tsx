@@ -122,7 +122,7 @@ export const RESUME_DATA = {
         "OAuth",
       ],
       description:
-        "WanderAI is an AI-powered trip planning platform that provides personalized travel itineraries using generative AI for enhanced user experiences and real-time locationdata.",
+        "WanderAI is an AI-powered trip planning platform that provides personalized travel itineraries using generative AI for enhanced user experiences and real-time location data.",
       link: {
         label: "github.com",
         href: "https://github.com/isayanpal/wanderAI",
