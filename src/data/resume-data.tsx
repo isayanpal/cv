@@ -129,6 +129,26 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "ThoughtCLoud",
+      techStack: [
+        "React",
+        "Typescript",
+        "Zustand",
+        "Prisma",
+        "MongoDB",
+        "Expressjs",
+        "Nodejs",
+        "Shadcn UI",
+        "Framer-motion"
+      ],
+      description:
+        "ThoughtBook is a blog-writing platform where users can create, organize, and manage their blog posts efficiently.",
+      link: {
+        label: "github.com",
+        href: "https://github.com/isayanpal/thoughtCloud",
+      },
+    },
+    {
       title: "DocBook",
       techStack: [
         "Reactjs",
@@ -159,24 +179,6 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/isayanpal/LearnSync",
-      },
-    },
-    {
-      title: "ThoughtBook",
-      techStack: [
-        "React",
-        "Typescript",
-        "Prisma",
-        "Supabase",
-        "Cloudflare Workers",
-        "Hono",
-        "Zod",
-      ],
-      description:
-        "ThoughtBook is a blog-writing platform where users can create, organize, and manage their blog posts efficiently.",
-      link: {
-        label: "github.com",
-        href: "https://github.com/isayanpal/thoughtbook",
       },
     },
     {
